@@ -1,2 +1,26 @@
 # gos-programming
-Solutions for programming part of GOS exams
+## Распределение задач
+
+# Algorithms
+- [x] @yatagan
+- [x] @yatagan
+- [x] @yatagan
+- [x] @yatagan
+- [x] @yatagan
+- [x] @yatagan
+- [x] @yatagan
+- [x] @yatagan
+- [x] @yatagan
+- [x] @yatagan
+- [x] @yatagan
+- [x] @yatagan
+
+# Statistics
+- [ ] @gshigin
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
