@@ -16,7 +16,7 @@
 - [x] @yatagan
 
 # Numerical methods
-- [ ] @anlava
+- [ ] @anlava (@MrSkonr)
 - [ ]
 - [ ]
 - [ ]
