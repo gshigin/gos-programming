@@ -15,6 +15,20 @@
 - [x] @yatagan
 - [x] @yatagan
 
+# Numerical methods
+- [] @anlava
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+
 # Statistics
 - [ ] @gshigin
 - [ ] 
