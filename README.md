@@ -30,7 +30,7 @@
 - [ ]
 
 # Statistics
-- [ ] @gshigin
+- [x] @gshigin
 - [ ] 
 - [ ] 
 - [ ] 
