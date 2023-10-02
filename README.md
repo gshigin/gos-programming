@@ -18,7 +18,7 @@
 # Numerical methods
 - [x] @MrSkonr
 - [ ] @anlava
-- [ ] @MrSkonr
+- [x] @MrSkonr
 - [ ] @MrSkonr
 - [ ] @MrSkonr
 - [ ]
