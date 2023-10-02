@@ -16,11 +16,11 @@
 - [x] @yatagan
 
 # Numerical methods
-- [ ] @MrSkonr
+- [x] @MrSkonr
 - [ ] @anlava
-- [ ]
-- [ ]
-- [ ]
+- [ ] @MrSkonr
+- [ ] @MrSkonr
+- [ ] @MrSkonr
 - [ ]
 - [ ]
 - [ ]
