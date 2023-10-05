@@ -19,10 +19,10 @@
 - [x] @MrSkonr
 - [ ] @anlava
 - [x] @MrSkonr
+- [x] @MrSkonr
+- [x] @MrSkonr
 - [ ] @MrSkonr
 - [ ] @MrSkonr
-- [ ]
-- [ ]
 - [ ]
 - [ ] 
 - [ ]
