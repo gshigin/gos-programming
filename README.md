@@ -25,9 +25,9 @@
 - [x] @MrSkonr
 - [x] @MrSkonr
 - [x] @MrSkonr
-- [ ] @MrSkonr
-- [ ] @MrSkonr
-- [ ]
+- [x] @MrSkonr
+- [x] @MrSkonr
+- [x] @MrSkonr
 
 # Statistics
 - [x] @gshigin
